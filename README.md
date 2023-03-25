@@ -29,7 +29,7 @@ With the help of this software you can create a Password of your requirement. By
 - [@darshanjain](https://github.com/darshanjaipuria/)
 
 
-## Screenshots
+## Screenshot
 
 ![Password_Generator](https://user-images.githubusercontent.com/109844175/227701490-9b065321-e741-42f6-b3b7-1a701b1d4abc.png)
 
