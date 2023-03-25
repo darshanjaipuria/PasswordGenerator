@@ -59,7 +59,7 @@ HTML
 
 
 ## 🛠 Skills
-Java, Javascript, HTML, CSS, ReactJS, MySql, ExpressJS, MonoDB
+Java, Javascript, HTML, CSS, ReactJS, MySql, ExpressJS, MongoDB
 
 
 
