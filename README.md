@@ -33,6 +33,12 @@ With the help of this software you can create a Password of your requirement. By
 
 ![Password_Generator](https://user-images.githubusercontent.com/109844175/227701490-9b065321-e741-42f6-b3b7-1a701b1d4abc.png)
 
+## Demo
+
+For demo click on the below link
+
+https://password-generator-darshanjain.netlify.app/
+
 ## Appendix
 
 
@@ -43,12 +49,6 @@ To generate password you will have to choose wheather you want your password to 
 Javascript,
 Css,
 HTML
-
-## Demo
-
-For demo click on the below link
-
-https://password-generator-darshanjain.netlify.app/
 
 
 
